@@ -23,4 +23,6 @@ func main() {
 		fmt.Println("val ", val)
 		fmt.Println("exists: ", exists)
 	}
+
+	fmt.Println(myGreeting)
 }
